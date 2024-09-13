@@ -18,3 +18,13 @@ Nguyen Huy
 
 # Solution
  and then freeing up more time for artisans to focus on their craft by order tracking, payment processing, and customer communication.The app        allows artisans to reach a regional audience, expanding beyond their local region. This can significantly increase their sales opportunities and    customer base.
+
+ # Stakeholders
+ Customer Support Team
+ Artisans (Primary End-Users)
+ Buyers (Secondary End-Users)
+ Software Development Team
+
+ # features 
+1. “Story Mode” for Products:
+2. Search and Filtering Options:
