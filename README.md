@@ -23,7 +23,7 @@ Nguyen Huy
  Customer Support Team
  Artisans (Primary End-Users)
  Buyers (Secondary End-Users)
- Software Development Team
+ Software Developer Team
 
  # Features 
 1. “Story Mode” for Products:
@@ -36,6 +36,12 @@ we want the searchbar application is usable for the end-user to find specific pr
 Artisans can create profiles that showcase their brand, story, and expertise.
 
 4. In-app Chat 
-end user(artisan) and second end user(customers) will be able to communicate, we plan to let them communicate after
-the second end user 
+end user(artisan) and second end user(customers) will be able to communicate, we plan to let them communicate after the second end user 
 
+5. Verified End User
+end user will need to be verified by administrator to be able to start their selling
+
+# Constrain
+1. Administrator must verified the end user data, this will achieve by put submit data system on the app and face-check
+2. in-app purchased security must be secure, we will use external service payment and the administrator will follow-up the transaction process
+3.  
