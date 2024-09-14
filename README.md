@@ -25,6 +25,17 @@ Nguyen Huy
  Buyers (Secondary End-Users)
  Software Development Team
 
- # features 
+ # Features 
 1. “Story Mode” for Products:
+Story mode will be for the End-user (artisan) option, to let them write the story on the highlight product they sell.
+
 2. Search and Filtering Options:
+we want the searchbar application is usable for the end-user to find specific product and users
+
+3. Artisan Profile Creation
+Artisans can create profiles that showcase their brand, story, and expertise.
+
+4. In-app Chat 
+end user(artisan) and second end user(customers) will be able to communicate, we plan to let them communicate after
+the second end user 
+
