@@ -45,3 +45,6 @@ end user will need to be verified by administrator to be able to start their sel
 1. Administrator must verified the end user data, this will achieve by put submit data system on the app and face-check
 2. in-app purchased security must be secure, we will use external service payment and the administrator will follow-up the transaction process
 3.  
+
+### Flowchart
+![CaptureFlow](https://github.com/user-attachments/assets/125c252e-563d-4f2b-b12e-68e0eab7493f)
