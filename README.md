@@ -19,8 +19,11 @@ Nguyen Huy
 
 ## Stakeholders
  Customer Support Team
+ 
  Artisans (Primary End-Users)
+ 
  Buyers (Secondary End-Users)
+ 
  Software Developer Team
 
 ## Features 
